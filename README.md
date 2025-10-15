@@ -29,7 +29,9 @@ I specialize in building custom **OpenCart Extensions, Plugins**, and **RESTful 
 ## 🚀 Featured Projects
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| **OpenCart Multi-Vendor File Manager** | Custom OpenCart 3.x extension for vendor-based file uploads and management | OpenCart, PHP, MySQL, jQuery |
+| **OpenCart Multi-Vendor Marketplace** | OpenCart Module 3.x and 4.x extension for vendor-based marketplace management | OpenCart, PHP, MySQL, jQuery |
+| **OpenCart One Page Checkout Module** | OpenCart Module 3.x extension for ajax-based | OpenCart, PHP, MySQL, jQuery |
+| **OpenCart Delivery Managment Module** | OpenCart Module 3.x and 4.x devlopment | OpenCart, PHP, MySQL, jQuery |
 | **Custom Support Ticket System** | Core PHP-based support ticket management system with admin and customer modules | PHP, MySQL, Bootstrap |
 | **Laravel FAQ Module** | FAQ CRUD module built with Laravel 10 and Blade templating | Laravel, MySQL |
 
@@ -38,8 +40,3 @@ I specialize in building custom **OpenCart Extensions, Plugins**, and **RESTful 
 ## 📬 Connect With Me
 - 💼 **LinkedIn:** (https://www.linkedin.com/in/rakesh-kumar-a80712161/))  
 - 🧑‍💻 **GitHub:** (https://github.com/rakesh887))  
-
----
-
-> 💡 *“Code is like humor. When you have to explain it, it’s bad.”*  
-> — Cory House
