@@ -88,3 +88,122 @@ footer {
   font-size: 0.9rem;
   color: #666;
 }
+
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  background: #f9fafc;
+  color: #333;
+  line-height: 1.6;
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Header */
+header {
+  text-align: center;
+  padding: 30px 0;
+}
+
+.profile-img {
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid #007BFF;
+  margin-bottom: 15px;
+}
+
+h1 {
+  font-size: 2rem;
+  color: #222;
+}
+
+.tagline {
+  font-size: 1.1rem;
+  color: #555;
+}
+
+/* Sections */
+section {
+  margin-top: 40px;
+}
+
+h2 {
+  border-left: 5px solid #007BFF;
+  padding-left: 10px;
+  color: #007BFF;
+  margin-bottom: 15px;
+}
+
+p {
+  font-size: 1rem;
+  color: #444;
+}
+
+/* Services */
+.services ul {
+  list-style: none;
+}
+
+.services li {
+  background: #eef4ff;
+  margin: 8px 0;
+  padding: 10px 15px;
+  border-radius: 8px;
+}
+
+/* Portfolio */
+.portfolio-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 15px;
+}
+
+.portfolio-item {
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  transition: transform 0.2s ease;
+}
+
+.portfolio-item:hover {
+  transform: translateY(-5px);
+}
+
+.portfolio-item h3 {
+  margin-bottom: 10px;
+  color: #007BFF;
+}
+
+.portfolio-item a {
+  text-decoration: none;
+  color: #007BFF;
+}
+
+/* Contact */
+.contact p {
+  margin-bottom: 10px;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  margin-top: 40px;
+  padding: 20px 0;
+  color: #777;
+  font-size: 0.9rem;
+  border-top: 1px solid #ddd;
+}
+
